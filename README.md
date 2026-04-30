@@ -1,4 +1,4 @@
-# cybersecurity-forensics-labs
+# Cybersecurity Forensics Labs
 
 Hands-on digital forensics labs completed as part of **CSC 153 – Digital Forensics** at Sacramento State University (2024). Each lab covers a core forensic skill area using industry-standard tools.
 
